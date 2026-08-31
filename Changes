@@ -1,0 +1,12 @@
+nges for 2026-07-07
+The GraphQL schema includes these changes:
+
+Type IssueFieldTimelineOption was added
+Field color was added to object type IssueFieldTimelineOption
+Field name was added to object type IssueFieldTimelineOption
+Field options was added to object type IssueFieldAddedEvent
+Field newOptions was added to object type IssueFieldChangedEvent
+Field previousOptions was added to object type IssueFieldChangedEvent
+Field options was added to object type IssueFieldRemovedEvent
+Enum value 'LICENSE_COMPLIANCE_SCANNINGwas added to enumRepositoryRuleType'
+Input field issueCreationPolicy of type IssueCreationPolicy was added to input object type UpdateRepositoryInput
